@@ -1,7 +1,7 @@
 # Student-Management-App
-<h1>
+<h3>
   Student Details Mini Project
-</h1>
+</h3>
 <br>
 <p>Author: Nikita Yadav</p>
 <br>
